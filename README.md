@@ -10,7 +10,7 @@ Nuestro repositorio está disponible en: [Github](https://github.com/Yanioconjot
 #### Para poder colaborar con nuestro código deberás instalar:
 [Node.js](https://nodejs.org/) v4+
 
-#### Instalar las respectivas dependencias con:
+#### Para utilizar el código en tu rama local:
 ```sh
 $ cd express-clase-dh
 $ npm install
