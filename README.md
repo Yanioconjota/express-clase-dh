@@ -1,4 +1,4 @@
-# Ejercicio Express | Superheroes
+# Ejercicio Express
 
 <img src="https://www.digitalhouse.com/ar/logo-DH.png" width="250px">
 
