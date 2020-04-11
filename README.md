@@ -12,7 +12,7 @@ Nuestro repositorio está disponible en: [Github](https://github.com/Yanioconjot
 
 #### Instalar las respectivas dependencias con:
 ```sh
-$ cd bub
+$ cd express-clase-dh
 $ npm install
 $ npm start
 ```
